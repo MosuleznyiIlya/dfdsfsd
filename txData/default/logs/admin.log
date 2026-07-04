@@ -1,0 +1,236 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 13:14:57
+================================================================
+[13:15:15][bro_gamerdd] created admins file
+[13:15:36][bro_gamerdd] Config changes: general.serverName
+[13:15:36][bro_gamerdd] Changing global settings via setup stepper and started Deployer.
+[13:16:12][bro_gamerdd] Setting recipe.
+[13:16:26][bro_gamerdd] Running recipe.
+[13:16:34][bro_gamerdd] Config changes: server.dataPath
+[13:16:34][bro_gamerdd] Completed and committed server deploy.
+[13:20:24][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[13:26:58][bro_gamerdd] [bro_gamerdd] executed "STOP SERVER"
+[13:27:06][bro_gamerdd] [bro_gamerdd] executed "START SERVER"
+[13:29:26][bro_gamerdd] [bro_gamerdd] executed "STOP SERVER"
+[13:29:33][bro_gamerdd] [bro_gamerdd] executed "START SERVER"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 13:33:09
+================================================================
+[13:33:38][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 13:35:22
+================================================================
+[13:52:34][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[13:52:45][bro_gamerdd] Refreshed resources
+[13:52:46][bro_gamerdd] Ensured resource "es_extended"
+[13:52:46][bro_gamerdd] Ensured resource "esx_addonaccount"
+[13:52:47][bro_gamerdd] Ensured resource "esx_addoninventory"
+[13:52:47][bro_gamerdd] Ensured resource "esx_basicneeds"
+[13:52:48][bro_gamerdd] Ensured resource "esx_datastore"
+[13:52:48][bro_gamerdd] Ensured resource "esx_identity"
+[13:52:49][bro_gamerdd] Ensured resource "esx_skin"
+[13:52:49][bro_gamerdd] Ensured resource "skinchanger"
+[13:52:50][bro_gamerdd] Ensured resource "vMenu"
+[13:52:51][bro_gamerdd] Ensured resource "ox_target"
+[13:52:55][bro_gamerdd] Refreshed resources
+[13:52:56][bro_gamerdd] Ensured resource "es_extended"
+[13:52:57][bro_gamerdd] Ensured resource "es_extended"
+[13:52:58][bro_gamerdd] Refreshed resources
+[13:53:05][bro_gamerdd] [bro_gamerdd] executed "refresh"
+[13:53:11][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[13:57:17][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 14:10:45
+================================================================
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 14:16:59
+================================================================
+[14:17:14][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 14:18:59
+================================================================
+[14:19:11][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 14:22:58
+================================================================
+[14:23:09][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 14:24:41
+================================================================
+[14:25:25][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[14:32:10][bro_gamerdd] [bro_gamerdd] executed "restart esx_multicharacter"
+[14:34:15][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[14:53:30][bro_gamerdd] Refreshed resources
+[14:53:32][bro_gamerdd] Ensured resource "cron"
+[14:53:34][bro_gamerdd] Ensured resource "esx_chat_theme"
+[14:53:36][bro_gamerdd] Ensured resource "esx_inventory"
+[14:53:38][bro_gamerdd] Ensured resource "esx_loadingscreen"
+[14:53:48][bro_gamerdd] Ensured resource "esx_menu_list"
+[14:53:49][bro_gamerdd] Ensured resource "esx_menu_dialog"
+[14:53:50][bro_gamerdd] Ensured resource "esx_menu_default"
+[14:53:53][bro_gamerdd] Ensured resource "esx_menu_default"
+[14:53:57][bro_gamerdd] Ensured resource "dd5m_drifttuner"
+[14:53:59][bro_gamerdd] Ensured resource "ox_fuel"
+[14:53:59][bro_gamerdd] Stopped resource "esx_inventory"
+[14:54:00][bro_gamerdd] Ensured resource "esx_inventory"
+[14:54:01][bro_gamerdd] Ensured resource "realistichandling"
+[14:54:03][bro_gamerdd] Ensured resource "ox_fuel"
+[14:54:04][bro_gamerdd] Ensured resource "ox_fuel"
+[14:54:06][bro_gamerdd] Ensured resource "ox_fuel"
+[14:54:08][bro_gamerdd] Ensured resource "ox_fuel"
+[14:54:09][bro_gamerdd] Refreshed resources
+[14:54:10][bro_gamerdd] Ensured resource "ox_fuel"
+[14:54:15][bro_gamerdd] Ensured resource "ox_fuel"
+[14:54:52][bro_gamerdd] Refreshed resources
+[14:54:53][bro_gamerdd] Ensured resource "ox_fuel"
+[14:55:03][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[14:55:38][bro_gamerdd] Ensured resource "ox_fuel"
+[15:04:34][bro_gamerdd] Ensured resource "ox_fuel"
+[15:04:38][bro_gamerdd] Ensured resource "ox_fuel"
+[15:05:34][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[15:22:45][bro_gamerdd] Ensured resource "ox_fuel"
+[15:22:47][bro_gamerdd] Ensured resource "ox_fuel"
+[15:22:54][bro_gamerdd] Ensured resource "ox_fuel"
+[15:24:14][bro_gamerdd] Refreshed resources
+[15:24:17][bro_gamerdd] Ensured resource "ox_fuel"
+[15:25:02][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[15:31:03][bro_gamerdd] [bro_gamerdd] executed "STOP SERVER"
+[15:31:43][bro_gamerdd] [bro_gamerdd] executed "START SERVER"
+[15:36:01][bro_gamerdd] [bro_gamerdd] executed "addmoney"
+[15:36:23][bro_gamerdd] [bro_gamerdd] executed "/setaccountmoney"
+[15:57:39][bro_gamerdd] Refreshed resources
+[15:57:47][bro_gamerdd] Ensured resource "esx_inventory"
+[15:57:54][bro_gamerdd] Ensured resource "r820"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 16:23:09
+================================================================
+[16:23:46][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[16:30:31][bro_gamerdd] [bro_gamerdd] executed "refresh"
+[16:31:01][bro_gamerdd] Ensured resource "12charger"
+[16:31:05][bro_gamerdd] Ensured resource "Rakchr"
+[16:31:07][bro_gamerdd] Ensured resource "cullinanbb_kpym"
+[16:31:07][bro_gamerdd] Ensured resource "rs615"
+[16:31:08][bro_gamerdd] Ensured resource "toyatafortuner2017"
+[16:31:08][bro_gamerdd] Ensured resource "venatusc"
+[16:34:16][bro_gamerdd] [bro_gamerdd] executed "refresh"
+[16:34:20][bro_gamerdd] Stopped resource "toyatafortuner2017"
+[16:34:22][bro_gamerdd] Ensured resource "toyotafortuner2017"
+[16:35:36][bro_gamerdd] Refreshed resources
+[16:35:38][bro_gamerdd] Stopped resource "cullinanbb_kpym"
+[16:35:39][bro_gamerdd] Ensured resource "cullinanbbkpym"
+[16:35:40][bro_gamerdd] Ensured resource "toyotafortuner2017"
+[16:38:59][bro_gamerdd] Refreshed resources
+[16:39:01][bro_gamerdd] Ensured resource "aimgainnsx"
+[16:39:02][bro_gamerdd] Ensured resource "cullinanbb_kpym"
+[16:39:03][bro_gamerdd] Ensured resource "bmwm4"
+[16:39:05][bro_gamerdd] Ensured resource "hondacivicferiosirvirs"
+[16:39:07][bro_gamerdd] Ensured resource "m5g60w"
+[16:39:07][bro_gamerdd] Ensured resource "m6prior"
+[16:39:10][bro_gamerdd] Ensured resource "xp210"
+[16:39:14][bro_gamerdd] Stopped resource "toyotafortuner2017"
+[16:39:19][bro_gamerdd] Stopped resource "cullinanbbkpym"
+[16:39:20][bro_gamerdd] Stopped resource "cullinanbb_kpym"
+[16:39:21][bro_gamerdd] Refreshed resources
+[16:39:22][bro_gamerdd] Refreshed resources
+[16:43:27][bro_gamerdd] Refreshed resources
+[16:43:27][bro_gamerdd] Refreshed resources
+[16:43:30][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[16:53:23][bro_gamerdd] Stopped resource "esx_addoninventory"
+[16:53:27][bro_gamerdd] Refreshed resources
+[16:54:07][bro_gamerdd] Stopped resource "ox_inventory"
+[16:54:08][bro_gamerdd] Refreshed resources
+[16:54:31][bro_gamerdd] Ensured resource "weapon_recoil"
+[16:54:33][bro_gamerdd] Ensured resource "ox_fuel"
+[16:54:40][bro_gamerdd] Stopped resource "ox_inventory"
+[16:54:43][bro_gamerdd] Refreshed resources
+[16:55:37][bro_gamerdd] Ensured resource "ox_fuel"
+[16:55:40][bro_gamerdd] Ensured resource "esx_inventory"
+[16:55:44][bro_gamerdd] Ensured resource "esx_addoninventory"
+[16:55:56][bro_gamerdd] Refreshed resources
+[16:57:06][bro_gamerdd] Refreshed resources
+[16:57:09][bro_gamerdd] Stopped resource "ox_inventory"
+[16:57:12][bro_gamerdd] Ensured resource "weapon_back"
+[16:57:36][bro_gamerdd] Ensured resource "ox_inventory"
+[16:57:38][bro_gamerdd] Ensured resource "ox_fuel"
+[17:04:40][bro_gamerdd] Refreshed resources
+[17:07:06][bro_gamerdd] Refreshed resources
+[17:24:46][bro_gamerdd] [bro_gamerdd] executed "start ox_inventory"
+[17:27:13][bro_gamerdd] Refreshed resources
+[17:27:17][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[17:27:31][MONITOR] Restarting server: Server process close detected.
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 17:27:50
+================================================================
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 17:28:21
+================================================================
+[17:29:35][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[17:30:58][bro_gamerdd] Stopped resource "dd5m_drifttuner"
+[17:31:00][bro_gamerdd] Ensured resource "weapon_recoil"
+[17:31:02][bro_gamerdd] Ensured resource "weapon_back"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 17:45:56
+================================================================
+[17:47:58][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[17:48:02][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[17:49:13][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+[17:50:13][bro_gamerdd] Refreshed resources
+[17:50:14][bro_gamerdd] Refreshed resources
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 17:51:54
+================================================================
+[17:52:11][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[17:53:24][bro_gamerdd] Ensured resource "weapon_recoil"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 17:54:52
+================================================================
+[17:55:28][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[17:55:35][bro_gamerdd] Refreshed resources
+[17:55:42][bro_gamerdd] Ensured resource "weapon_recoil"
+[17:56:55][bro_gamerdd] [bro_gamerdd] executed "RESTART SERVER"
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 18:12:01
+================================================================
+[18:12:40][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 18:17:44
+================================================================
+[18:17:56][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 18:21:50
+================================================================
+[18:27:19][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+[18:40:02][bro_gamerdd] Refreshed resources
+[18:40:04][bro_gamerdd] Ensured resource "CarryPeople"
+[18:40:05][bro_gamerdd] Ensured resource "LegacyFuel"
+[18:40:06][bro_gamerdd] Ensured resource "RealisticVehicleFailure"
+[18:40:07][bro_gamerdd] Ensured resource "SmartSigns"
+[18:40:09][bro_gamerdd] Ensured resource "Shop_robbery"
+[18:40:11][bro_gamerdd] Refreshed resources
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 19:07:51
+================================================================
+[19:08:03][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 19:11:18
+================================================================
+[19:11:38][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 19:54:20
+================================================================
+[19:54:31][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 19:55:34
+================================================================
+[19:55:44][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 19:59:48
+================================================================
+[19:59:57][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 20:03:03
+================================================================
+[20:03:12][bro_gamerdd] logged in from 127.0.0.1 via cfxre
+================================================================
+======== txAdmin v8.0.1 atop fxserver 25770 Starting - 04.07.2026, 20:05:37
+================================================================

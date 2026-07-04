@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "fivem-server"
+  },
+  "server": {
+    "dataPath": "D:/fivemserver/txData/FiveMBasicServerCFXDefault_48DD41.base/"
+  }
+}
